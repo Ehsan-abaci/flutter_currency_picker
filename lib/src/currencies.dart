@@ -1609,7 +1609,7 @@ List<Map<String, dynamic>> currencies = [
     "name_plural": "Iranian rials",
     "thousands_separator": ",",
     "decimal_separator": ".",
-    "space_between_amount_and_symbol": true,
+    "space_between_amount_and_symbol": false,
     "symbol_on_left": true,
   },
   {
